@@ -10,7 +10,10 @@ Algorithm to find most frequent temperature
      b) Sort numbers: It is necessary to sort the data list then algorithm can find the most frequent temperature (mode);
      c) Find the mode: Algorithm to find and return the most frequent temperature (mode);
 
-    _______________           ______________           _______________
-   |               |         |              |         |               |
-   | Set generator |-------->| Sort numbers |-------->| Find the mode |
-   |_______________|         |______________|         |_______________|
+                                                                                                  
+ ---------------         -----------------          ---------------     
+|               |       |                 |        |               |   
+| Set generator |------>|   Sort numbers  |------->| Find the mode | 
+|               |       |                 |        |               |         
+ ---------------         -----------------          ---------------           
+            
